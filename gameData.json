@@ -1,0 +1,96 @@
+{
+    "tips": [
+        {
+            "tip": "Maak een planning voor je leerwerk zodat je niet alles op het laatste moment hoeft te doen."
+        },
+        {
+            "tip": "Hak taken op in deeltaken zodat je een goede tijdsinschatting kunt maken."
+        },
+        {
+            "tip": "Stel prioriteiten zodat je de dingen die belangrijk zijn als eerste doet."
+        },
+        {
+            "tip": "Stel SMART-doelen zodat je gericht naar iets toe kunt werken."
+        },
+        {
+            "tip": "Ga na uit hoeveel vragen je toets of examen bestaat, wat voor soort vragen het zijn, hoe lang je erover mag doen en welke hulpmiddelen je mag gebruiken."
+        },
+        {
+            "tip": "Begin op tijd met leren zodat je genoeg tijd hebt om de leerstof te herhalen."
+        },
+        {
+            "tip": "Begin met het moeilijkste leerwerk of het leerwerk waar je het meest tegenop ziet."
+        },
+        {
+            "tip": "Leer en oefen de leerstof op verschillende manieren: samenvatten, overhoren, uitleggen, ezelsbruggetjes."
+        },
+        {
+            "tip": "Leer niet aan één stuk door maar neem pauzes. Als je te lang doorgaat, neem je de leerstof ook niet meer goed op."
+        },
+        {
+            "tip": "Maak proefexamens zodat je kunt oefenen met het soort vragen en de beschikbare tijd."
+        },
+        {
+            "tip": "Eet en drink gezond. Fruit, noten, groenten, water en thee zijn beter voor je dan snacks en frisdrank."
+        },
+        {
+            "tip": "Zorg voor voldoende ontspanning. Een toets of examen is al spannend genoeg dus wees lief voor jezelf."
+        },
+        {
+            "tip": "Ga op tijd naar bed zodat je fit en uitgerust bent voor je toets of examen."
+        },
+        {
+            "tip": "Ga van tevoren na hoe laat je moet vertrekken. Hou ook voldoende rekening met eventuele vertraging."
+        },
+        {
+            "tip": "Zorg dat je op tijd bent voor de toets of het examen. Als je te laat komt stoor je de anderen en heb je minder tijd voor het maken van je toets of examen."
+        },
+        {
+            "tip": "Zorg dat je alle spullen bij je hebt, dus ook de hulpmiddelen die je tijdens de toets of het examen mag gebruiken."
+        },
+        {
+            "tip": "Blijf tijdens de toets of het examen kalm en heb vertrouwen in jezelf. Je kunt het! Lees alle vragen en opdrachten goed door zodat je precies weet wat er van je verwacht wordt."
+        },
+        {
+            "tip": "Vul altijd iets in, ook als je het antwoord gokt bestaat er een kans dat het goed is. Als je niets invult weet je zeker dat het antwoord fout is! Controleer aan het eind voor de zekerheid of je bij alle vragen een antwoord hebt ingevuld."
+        }
+    ],
+    "snakeLadderArray": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        17,
+        6,
+        7,
+        8,
+        9,
+        2,
+        23,
+        12,
+        9,
+        26,
+        15,
+        16,
+        17,
+        18,
+        15,
+        20,
+        21,
+        22,
+        23,
+        22,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        27,
+        32,
+        25,
+        34,
+        35
+    ]
+}
